@@ -1,0 +1,938 @@
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccfWSgW8.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccGbKU6t.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccABx2gf.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccCfskoB.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccjG0SlA.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccxAJhS6.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccjAhxKk.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccgAcqpp.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cchZWAoD.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cczKiKy1.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccNMgIi9.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccWkoA9o.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccdn5KH3.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cchac9y4.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccJuI5O7.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccVyzExd.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccXW2coA.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccAwwVs0.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc4U2JUQ.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc40JC7h.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cceDTN2s.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccU2irdZ.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccdOot5O.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccyMFETw.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccOjQlMC.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccO0jQH5.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccGoa6vV.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc7YokAo.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccE65XnE.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccuuMJ5S.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccoUY0mF.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccObSPU0.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc8cunvp.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccw5e5xR.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccnqHsMr.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccf6qrz4.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccSCXNLk.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccqfA91Q.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccXs0S65.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc1ZGn24.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccT3hddH.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cckPaHVs.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc9JUjVt.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccyF9xHF.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccypk5CQ.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cccgG2fX.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cci2N87v.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccq4InH2.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccPQpGQn.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccb3Ujep.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccFITqeP.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccKP9DsX.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccECkSlU.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cclSOycB.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccKZLMq2.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccdpMVQQ.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc6QYWro.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccPlCPqT.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccA34K8L.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccExdBP5.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccopWCg9.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccrNUxJ7.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccgdl6ay.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccq13bT8.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccNmBujd.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccvGkhhz.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccfVzeFG.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc965GYp.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc4fMkAY.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc6GpZPP.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccsaWc3z.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccWEHMvZ.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccEICwhq.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccMouA0j.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccK4K0pO.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccY7E5J1.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccFBlkWs.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cccpOWD3.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccv1Dltu.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccfCONXf.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccwY4Dk2.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccAl7hMS.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc8ZcSKy.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccgFxMth.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccZiYoRy.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccsGEF2G.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccTI0w9b.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccpD9wOC.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccqIC12p.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cctIdK57.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccUv7ZiU.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccaTz2xn.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc3wGwyS.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccLUGKix.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccIAGcV1.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccsc9LmP.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccUMkK0H.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccs4QWmU.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc2j5cC1.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccGkFIsS.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccLFjEie.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccbAyJ5Z.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cckjr0MN.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc1D2rXH.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccvyQFy7.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccr6pm5f.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccmcKC7q.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccivpgkm.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc0XySyM.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccRS2E2d.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccdjW8jd.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc6oABDY.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cczJXxSh.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccu5IrX7.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccLakUSB.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccM9yMEE.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc20puLK.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccJVscXC.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccyODbjv.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccTzcYqI.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccbd0Php.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/cccN7TpJ.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccuqAQwp.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccyZ4Zwb.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccut5XXS.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccbCawlO.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccqiSnh3.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccLaXGfS.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccp0nxIK.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccN2ZrGS.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccQfjLS2.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccB2gxnc.o: in function `main':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccEBEISS.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccIZhFkk.o: in function `main':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: (.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/13/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccQgXUbZ.o: in function `main':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/cceV83tM.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccwqaY8n.o: in function `.Label1':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccRznXYS.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc49KGWz.o: in function `.Label2':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc49KGWz.o: in function `.Label6':
+(.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccOJuK5J.o: in function `.Label4':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccqRi4md.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccawFR5J.o: in function `.Label1':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc3l9cF2.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccHNUnTn.o: in function `.Label2':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccHNUnTn.o: in function `.Label6':
+(.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccKV6R2R.o: in function `.Label4':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc88HeZx.o: in function `main':
+(.text+0xd6): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccfmycAg.o: in function `.Label1':
+(.text+0x138): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/cc75Wh67.o: in function `main':
+(.text+0x8): undefined reference to `get_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: (.text+0x20): undefined reference to `get_int'
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccIktxbz.o: in function `.Label2':
+(.text+0xc0): undefined reference to `print_int'
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccIktxbz.o: in function `.Label6':
+(.text+0x142): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: /tmp/ccMX7Jqy.o: in function `.Label4':
+(.text+0xe2): undefined reference to `print_int'
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 00.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 01.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 02.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 03.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 04.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 05.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 06.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 07.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 08.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 09.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 10.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 11.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 12.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 13.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 14.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 15.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 16.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 17.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 18.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 19.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 20.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 21.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 22.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 23.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 24.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 25.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 26.sRT_C: No such file or directory
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 00.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 01.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 02.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 03.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 04.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 05.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 06.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 07.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 08.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 09.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 10.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 11.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 12.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 13.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 14.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 15.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 16.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 17.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 18.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 19.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 20.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 21.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 22.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 23.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 24.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 25.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 26.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 27.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 28.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 29.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+/usr/lib/gcc-cross/riscv64-linux-gnu/12/../../../../riscv64-linux-gnu/bin/ld: cannot find 30.sRT_C: No such file or directory
+collect2: error: ld returned 1 exit status
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 04.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 28.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 29.s for reading: No such file or directory
+Assembler messages:
+Error: can't open 30.s for reading: No such file or directory

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/opt/cact/compiler8_2025/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
