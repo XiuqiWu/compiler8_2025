@@ -46,7 +46,7 @@ java -jar ../deps/antlr-4.13.1-complete.jar -Dlanguage=Cpp CACT.g4 -no-visitor -
 - `symbolTable.cpp` / `symbolTable.h`：符号表管理。
 - `IRGenerator.cpp` / `IRGenerator.h`：中间代码生成器。
 - `IRCode.cpp` / `IRCode.h`：中间代码及其到汇编的转换。
-- `IR.cpp` / `IR.h`、`IROperand.hpp`：中间代码及操作数的定义。
+- `IR.cpp` / `IR.h`、 `IROperand.hpp `  ： 中间代码及操作数的定义。
 - `main.cpp`：主程序入口，负责编译流程的调度。
 
 ## 四、实现成效
